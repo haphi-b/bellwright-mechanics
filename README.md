@@ -1,4 +1,5 @@
 # How does Bellwright work?
+[Last update: 2026-08-22]
 I was curious about some mechanics and found it to be fun in this game to propose hypothesis about how some game mechanics work and testing it out (proving me right or wrong).
 
 Here are my results:
