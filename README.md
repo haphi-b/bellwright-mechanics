@@ -2,6 +2,7 @@
 I was curious about some mechanics and found it to be fun in this game to propose hypothesis about how some game mechanics work and testing it out (proving me right or wrong).
 
 Here are my results:
+- [Buildings](./interpretations/buildings.overview.md)
 - [Time](./interpretations/time.itrpd.md)
 - [Controllable NPCs](./interpretations/player-npcs.itrpd.md)
 - [Existing villages](./interpretations/villages.itrpd.md)
