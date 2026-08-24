@@ -11,6 +11,8 @@ Here are my results:
 - [Player settlements](./interpretations/player-settlements.itrpd.md)
 - [Mining and harvesting](./interpretations/harvesting-mining.itrpd.md)
 
+Thanks for their help and input:  
+**Misper** (mods), **Avery Valiant**(mods), **younes**(mods) and **Bigfoot the Pterable** (being smart)
 
 ### About this repo
 I try to drive kind of a scientific approach and thus differ between actual data and interpretations. It's an interesting and fun angle to me and was inspired by someone from dischord pointing out sth. like: "Everyone tells you they'd know how the game works and what you should do but when testing that stuff you see that everything was just an assumption on their side". I've seen myself giving such crappy advice because it's tempting if you don't actually clearly know on what data you give that advice.

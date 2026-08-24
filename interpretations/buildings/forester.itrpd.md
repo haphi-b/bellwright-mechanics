@@ -47,6 +47,8 @@ If buildings were removed to free a spot in regard to 3. ("trees won't be plante
 
 If all above conditions are met: a worker will immediately (within 5 seconds) be assigned to the forester to plant that tree. Planted saplings grow into trees even during winter. It takes 3-4 in game days for the tree to fully grow.
 
+During the whole growth period saplings stay sapling but with a growth indicator that is visible if you come close. These saplings are different than others in that they can't be used for wood harvesting, or cut down. They once the growth indicator reaches 100% you often have to back a couple of meters away and shortly look away for the tree to be fully grown.
+
 While doing the job the forester NPC needs to be set to a high **farming job prio**, but it gives **crafting experience** to plant the sapling.
 
 ## Additional Infos

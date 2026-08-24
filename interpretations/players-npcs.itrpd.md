@@ -62,12 +62,13 @@ Head Trauma | Max health -25%, Crafting speed -15%
 
 
 ## Worker
-- Only pick 1 food while being a worker [TODO: recheck, this claim seems to be wrong, more research needed]
-- Workers only need a sleeping place and food to be ‘happy’ aka: have a good morale. Actual sleep is not required, so it’s okay to have them as companions during the night. The sleeping place should always be adequate. If there are big houses but they are in a tent you’d get a morale debuff.
-- According to the in-game codex high morale helps to increase “productivity” which is a buff. [TODO: but to what extent? The game does not tell. Morale 50 gives what productivity?]
+- Only pick 1 food while being a worker [TODO:**this claim seems to be wrong. Testing regarding amount of food is planned**]
+- Workers only need a sleeping place and food to be ‘happy’ aka: have a good morale. Actual sleep is not required, so it’s okay to have them as companions during the night.
+- The sleeping place needs to be of the right tier otherwise they get a debuff. [Need to test: This seems to only affect the main settlement or where a village or town hall is created. In these cases houses would need to be of the tier of that building]
+- According to the in-game codex high morale helps to increase "productivity" which is a buff. [TODO: but to what extent? The game does not tell. Morale 50 gives what productivity?]
 - Productivity increases the speed of everything that has a process bar [TODO 1: found that about productivity online, reddit, must be verified! but would fit description in-game]
 - [TODO 2: why is productivity often different for each work attribute if you hover over them? Prod-Food seems to give a base buff but each attribute seems to have a bigger increase. Perhaps due to the resp. skill lvl?]
-- Workers that have “hold ground” enabled will engage in combat and alarm others. **NOTE:** They engage in combat but still normally just take 1 food instead of guards who take 3 foods like companions. [TODO: should these others be reservists or also hold ground? How far away may others be to be recruited? I believe pretty far]
+- Workers that have "hold ground" enabled will engage in combat and alarm others. **NOTE:** They engage in combat but still normally just take 1 food instead of guards who take 3 foods like companions. [TODO: should these others be reservists or also hold ground? How far away may others be to be recruited? I believe pretty far]
 - If a weapon is missing and villagers are attacked: they will run away. That’s terrible when escorting a new recruit home: animals always attack NPCs in your party before you. The recruit will run endlessly in the wrong direction and you after both of them.
 - Idle workers will walk alone very far out of your settlement. Basically: If there is any bandit camp nearby (in that county) they are very likely to be attacked
 - Workers will automatically pick up dropped loot bags. (if there are close to the settlement, unclear: does the worker simply have to be near or does the loot bag need to be within the settlement area?)
@@ -75,7 +76,7 @@ Head Trauma | Max health -25%, Crafting speed -15%
 
 ## Guards
 - They always try to maintain 3 food
-- Guards don’t work and walk around your camp at all times (they don't sleep). They eat 3 foods and have gear like in their companion preset (needs verification that it is companion preset).
+- Guards don’t work and walk around your camp at all times (they don't sleep). They the companion gear preset (needs verification that it is companion preset).
 - Once a guard encounters any enemy they automatically call every other guard to assist them no matter how far the others are away (like attacking a single bandit of a bandit camp)
 - Need to check: how do guards interact with hold-ground workers?
 - Guards wander off like idle villagers
