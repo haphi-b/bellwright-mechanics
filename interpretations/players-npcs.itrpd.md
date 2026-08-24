@@ -75,8 +75,8 @@ Head Trauma | Max health -25%, Crafting speed -15%
 
 
 ## Guards
-- They always try to maintain 3 food
-- Guards don’t work and walk around your camp at all times (they don't sleep). They the companion gear preset (needs verification that it is companion preset).
+- **\[Seems like that is wrong\]** They always try to maintain 3 food
+- Guards don’t work but walk around your camp at all times (they don't sleep). They the companion gear preset (needs verification that it is companion preset).
 - Once a guard encounters any enemy they automatically call every other guard to assist them no matter how far the others are away (like attacking a single bandit of a bandit camp)
 - Need to check: how do guards interact with hold-ground workers?
 - Guards wander off like idle villagers
