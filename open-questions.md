@@ -19,7 +19,6 @@ Current BW Version: 2026-06-09
 
 
 # Workers
-- do you actually lose the villagers renown on a perma death?
 - where is the harvesting skill actually important? only foraging? farming perhaps, or butchering/skinning as well?
 - what prios will worker choose if no job prio is given? Will they consider current and/or max. attributes?
 - does it make a difference if job a and b are set to a=1 and b=9, or a=8 and b=9 or a=1 b=2. So any additional info besides say a is more important than b?

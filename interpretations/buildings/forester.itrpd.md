@@ -8,10 +8,10 @@ For both jobs the farming job priority is important. (Skill requirements?!) But 
 ## Growing saplings from seeds
 The 16 pots in the building are like the 25 planting spots in farms but dedicated for growing saplings from tree seeds.
 
-**Create a sapling:**
+**Growing a sapling:**
 1. Have an NPC with farming priority.
 2. Add Mud and tree seeds. \[Optional: Also add fertilizer and water, it increases yield\]
-3. Have a top up rule that allows growing.
+3. In the forester management have a top up rule that allows growing of saplings.
 4. Have any prio except 'disabled' for sapling growing
 
 The NPC should start taking care of the planting pots and saplings should be growing within minutes. Growth took about 41 hrs in-game (almost 2 days) under the used test conditions.

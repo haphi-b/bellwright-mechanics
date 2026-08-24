@@ -151,7 +151,7 @@ Try verify the hypothesis you'd automatically get from "Pits - Test 2" (overgrou
 - Let NPCs mine in just pit A
 
 Placement of pits A, B and C:  
-![Placement of pits A, B and C](./pit-placement-nearbyres.png)
+![Placement of pits A, B and C](../resources/pit-placement-nearbyres.png)
 
 **Results**  
  - while mining capacity % went down in pit A they remained at 100% in pit B (which was not operated)

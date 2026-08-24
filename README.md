@@ -6,7 +6,7 @@ I was curious about some mechanics and found it to be fun in this game to propos
 Here are my results:
 - [Buildings](./interpretations/buildings.overview.md)
 - [Time](./interpretations/time.itrpd.md)
-- [Controllable NPCs](./interpretations/player-npcs.itrpd.md)
+- [Controllable NPCs](./interpretations/players-npcs.itrpd.md)
 - [Existing villages](./interpretations/villages.itrpd.md)
 - [Player settlements](./interpretations/player-settlements.itrpd.md)
 - [Mining and harvesting](./interpretations/harvesting-mining.itrpd.md)
