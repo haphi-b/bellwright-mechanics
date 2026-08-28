@@ -1,14 +1,8 @@
 # Player controlled NPCs (Data)
 
-## Existing Data (not explicitly tested)
-Most of this is 'experience' via playing not explicit testing. Some of this can't be really tested. Some is stated within the game.
-
-- If players NPCs die they get an injury and respawn after about 10 minute at their house.
-- [From experience] If not injured, NPCs can never permanently die. Even NPCs with traits that increase the death chance. These traits only increase the chance once they have an injury.
-
 ## Test 1
 **Intention:**  
-Does a perma death release release the NPCs renown?
+Does a perma death refund the NPCs renown?
 
 **Test setup:**  
 Repeatedly send 4 injured NPCs to fight enemies. I used the Brigands HQ for their strong fighters. Once perma death occurs check the renown.
