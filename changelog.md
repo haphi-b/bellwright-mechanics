@@ -1,3 +1,11 @@
+### 2026-08-28 - Renown Formula, Bandits and more
+WIP: Everything feels super sloppy now and much needs work
+- Added bandits chapter and data but is 100% WIP and total chaos (better don't read yet)
+- Extracted Buffs/Debuffs
+- WIP: added a rough stub for 'cheesy strats'
+- 'Controllable NPCs' was extended especially on the topic of hiring and renown cost calculation. But corresponding data is in villages.data.md
+- some changes to 'Neutral Villages' but still very much WIP
+
 ### 2026-08-24 - Added more NPC knowledge
 - Tested injury/death behavior of NPCs (esp. with trait neurotics and nomads)
 - Tested item drop behavior upon different death scenarios
