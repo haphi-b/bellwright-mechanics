@@ -135,15 +135,15 @@ Check the entire population of Karvenia at start of a new game, and at a later s
 1) Influence of Prosperity
 
    Apprentices at game start (Prosperity 1 = P1):  
-   Village        | 3 Star Apprentices                  | 4 Star Apprentices
-   ---            | ---                                 | ---
-   Hearndean (P1) | 1x Farmer, 1x Weaver, 1x Blacksmith | 1x Weaver, 1x Farmer
-   Padstow   (P1) | 2x Carpenter, 2x Woodsman           | 2x Woodsman, 1x Carpenter
-   Bradford  (P1) | 1x Woodsman, 1x Innkeeper, 1x Healer| 1x Woodsman, 1x Innkeeper, 1x Healer
-   Farnworth (P1) | 2x Weaver, 1x Labourer, 1x Healer   | 1x Labourer, 1x Weaver, 1x Healer
-   Blackridgepool (P1) | 1x Labourer, 1x Farmer, 1x Carpenter| 2x Farmer, 1x Labourer, 1x Carpenter, 1x Blacksmith
-   Horndean  (P1) | 2x Blacksmith, 2x Engineer, 1x Woodsman| 1x Blacksmith, 1x Engineer, 1x Healer
-   Crasmere  (P1) | 2x Labourer, 2x Engineer, 1x Innkeeper| 2x Engineer, 2x Labourer, 1x Innkeeper
+   Village             | 3 Star Apprentices                     | 4 Star Apprentices
+   ---                 | ---                                    | ---
+   Hearndean (P1)      | 1x Farmer, 1x Weaver, 1x Blacksmith    | 1x Weaver, 1x Farmer
+   Padstow   (P1)      | 2x Carpenter, 2x Woodsman              | 2x Woodsman, 1x Carpenter
+   Bradford  (P1)      | 1x Woodsman, 1x Innkeeper, 1x Healer   | 1x Woodsman, 1x Innkeeper, 1x Healer
+   Farnworth (P1)      | 2x Weaver, 1x Labourer, 1x Healer      | 1x Labourer, 1x Weaver, 1x Healer
+   Blackridgepool (P1) | 1x Labourer, 1x Farmer, 1x Carpenter   | 2x Farmer, 1x Labourer, 1x Carpenter, 1x Blacksmith
+   Horndean  (P1)      | 2x Blacksmith, 2x Engineer, 1x Woodsman| 1x Blacksmith, 1x Engineer, 1x Healer
+   Crasmere  (P1)      | 2x Labourer, 2x Engineer, 1x Innkeeper | 2x Engineer, 2x Labourer, 1x Innkeeper
 
    Apprentices late game (Prosperity 4 = P4, and so on):  
    Hearndean (P4), Padstow (P5), Bradford (P4), Farnworth (P4), Blackridgepool (P4), Horndean (P5), Crasmere (P4)  
@@ -154,16 +154,16 @@ Check the entire population of Karvenia at start of a new game, and at a later s
 
    Padstow:
 
-   Star Rating |  P1 Start | P5 + 1 House | P5 + 7 Houses
-   ---         | ---  | ---    | ---
-   0           |  3   | 0      | 0
-   1           |  3   | 2      | 2
-   2           |  3   | 11     | 20
-   3           |  1   | 5      | 8
+   Star Rating  |  P1 Start | P5 + 1 House | P5 + 7 Houses
+   ---          | ---  | ---    | ---
+   0            |  3   | 0      | 0
+   1            |  3   | 2      | 2
+   2            |  3   | 11     | 20
+   3            |  1   | 5      | 8
    3, apprentice|  4   | 4      | 4
-   4           |  3   | 3      | 3
+   4            |  3   | 3      | 3
     |
-   Total       |  17  | 25     | 37
+   Total        |  17  | 25     | 37
    
    I couldn't find any change in apprentices, so the seemingly fixed 3-stars: 2x Carpenter, 2x Woodsman and 4-stars: 2x Woodsman, 1x Carpenter. So even this did not add any 4 star villager. Moreover only 3 3-stars were added. A player might not chose below 3-stars.
 
@@ -183,23 +183,23 @@ Create a new game ('Early', 0 NPCs) and try recruiting. Use a late game ('Late')
 
 **Results:**  
 - Renown Costs (raw data)
-   Villager stars | \| | 'Early'    | \| | 'Late'
-   ---            | -- | ---        | -- | ---
-   1              |\|  | 78, 73, 83 |\|  | 13121, 13121
-   2              |\|  | 173, 183   |\|  | 13226, 13221
-   3              |\|  | 333        |\|  | 13381, 13381
-   3 (apprentices)|\|  | 478, 493   |\|  | 13531, 13531
-   4              |\|  | 493, 633   |\|  | 13686, 13686
+   Villager stars  | 'Early'    | 'Late'
+   ---             | ---        | ---
+   1               | 78, 73, 83 | 13121, 13121
+   2               | 173, 183   | 13226, 13221
+   3               | 333        | 13381, 13381
+   3 (apprentices) | 478, 493   | 13531, 13531
+   4               | 493, 633   | 13686, 13686
 
 - Derived: Cost factor in relation to 1-star (cheapest) based on averages.
 
-   Villager stars | \|  | 'Early' (avg) | \|  | 'Early' (Factor) | \|  | 'Late' (avg) | \|  | 'Late' (Factor)
-   ---            | --- | ---           | --- | ---              | --- | ---          | --- | --- 
-   1              | \|  | 78            | \|  | 1.00x            | \|  | 13121        | \|  | 1.00x     
-   2              | \|  | 178           | \|  | 2.28x            | \|  | 13224        | \|  | 1.01x     
-   3              | \|  | 333           | \|  | 4.27x            | \|  | 13381        | \|  | 1.02x     
-   3 (apprentices)| \|  | 486           | \|  | 6.23x            | \|  | 13531        | \|  | 1.03x     
-   4              | \|  | 563           | \|  | 7.22x            | \|  | 13686        | \|  | 1.04x     
+   Villager stars  | 'Early' (avg) | 'Early' (Factor) | 'Late' (avg) | 'Late' (Factor)
+   ---             | ---           | ---              | ---          | --- 
+   1               | 78            | 1.00x            | 13121        | 1.00x     
+   2               | 178           | 2.28x            | 13224        | 1.01x     
+   3               | 333           | 4.27x            | 13381        | 1.02x     
+   3 (apprentices) | 486           | 6.23x            | 13531        | 1.03x     
+   4               | 563           | 7.22x            | 13686        | 1.04x     
 
 **Conclusion:**  
 Early on (0 NPCs) the hiring cost increases by quality alone with a factor of up to 7.22 while in the late game the renown biggest cost difference is just about 1% to 4%.

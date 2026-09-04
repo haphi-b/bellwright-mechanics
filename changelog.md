@@ -1,3 +1,10 @@
+### 2026-09-04 - Bandits and Renown Farming
+- focuses mainly on bandit camps and patrols
+- finished bandits as far as was possible for now
+- wrote some thoughts on what could be relevant for renown farming
+- hints regarding settlement/outpost safety
+- contains rare footage of a bandit migration party
+
 ### 2026-08-28 - Renown Formula, Bandits and more
 WIP: Everything feels super sloppy now and much needs work
 - Added bandits chapter and data but is 100% WIP and total chaos (better don't read yet)

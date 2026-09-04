@@ -3,7 +3,7 @@ These interpretations about the forester building are based on the [Forester Bui
 
 The forester management UI combines controls for **growing saplings** and for **growing trees**. The placement of the forester matters and should be centered in a deforested area. It can only grow exactly the same trees that were already existing before. It can handle two workers at the same time: one for growing saplings in its pots and one worker for planting ready saplings. Testing shows planting happens in a **150 m working radius** around the forester.
 
-For both jobs the farming job priority is important. (Skill requirements?!) But no experience to farming is given, instead planting and growing saplings gives crafting experience.
+For both jobs the farming job priority is important. But no experience to farming is given, instead planting and growing saplings gives crafting experience.
 
 ## Growing saplings from seeds
 The 16 pots in the building are like the 25 planting spots in farms but dedicated for growing saplings from tree seeds.
@@ -57,3 +57,4 @@ While doing the job the forester NPC needs to be set to a high **farming job pri
 - The statistics page shows log icons but the count refers to the number of trees planted
 - The "growing" count shows the number of existing saplings plus the currently growing ones. The growing ones are always counted as 1 but normally due to fertilizer, watering etc. you get more than 1 sapling, thus the number of growing can normally be multiplied by factor 1.5 up to 3.
 - While planting the message in the NPC details showed either "taking 1 tree sapling from xy storage" or "harvesting". The image in the forester for the working NPC shows "crafting" and the NPC's crafting skill.
+- Video of a sapling growing into a tree [Video Sapling to Tree](../../resources/sapling-to-tree.mp4)
