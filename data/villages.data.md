@@ -162,7 +162,7 @@ Check the entire population of Karvenia at start of a new game, and at a later s
    3            |  1   | 5      | 8
    3, apprentice|  4   | 4      | 4
    4            |  3   | 3      | 3
-    |
+    ||
    Total        |  17  | 25     | 37
    
    I couldn't find any change in apprentices, so the seemingly fixed 3-stars: 2x Carpenter, 2x Woodsman and 4-stars: 2x Woodsman, 1x Carpenter. So even this did not add any 4 star villager. Moreover only 3 3-stars were added. A player might not chose below 3-stars.
